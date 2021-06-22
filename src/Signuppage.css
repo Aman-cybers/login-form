@@ -1,0 +1,82 @@
+.signuppage {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  
+  .back__img {
+    width:450px;
+    margin-top: 120px;
+  }
+  
+  
+  .login__name {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 45px;
+  }
+  
+  .border__form {
+    border: 3px solid black;
+    margin-top: 100px;
+    height: 380px;
+    width: 19rem;
+  }
+  .input__form1{
+  
+    margin: auto;
+    display: block;
+    padding: 5px;
+    margin-top: 40px;
+    font-size: 15px;
+    width: 200px;
+  }
+  .continue__button {
+    margin-left: 101px;
+    border: none;
+    margin-top: 22px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    width: 100px;
+    font-size: small;
+    
+  }
+  .register {
+    border: none;
+    background-color: white;
+  
+  }
+  .p__line{
+    text-align: center;
+    margin-top: 20px;
+    font-size: medium;
+  }
+  .select__form{
+    border-color: black;
+    margin: auto;
+    display: block;
+    padding: 5px;
+    margin-top: 20px;
+    font-size: 15px;
+    width: 200px;
+  }
+  .input__form2 {
+    margin: auto;
+    display: block;
+    padding: 5px;
+    margin-top: 20px;
+    font-size: 15px;
+    width: 200px;
+  }
+  
+  .login{
+      text-align: center;
+      margin-top: 5px;
+      color: black;
+      text-decoration: none;
+      font-size: small;
+  }
+  
